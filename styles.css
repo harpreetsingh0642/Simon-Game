@@ -1,0 +1,91 @@
+body {
+  text-align: center;
+  background-color: #184d47;
+}
+
+.h3-heading
+{
+  font-family: 'Orbitron', sans-serif;
+  padding-top: 40px;
+  color: white;
+  font-size: 1rem;
+  margin:0;
+}
+
+.visible-h3
+{
+visibility: hidden; 
+}
+.div-above-h1
+{
+  padding-bottom: 40px;
+}
+.div-below-h1
+{
+  padding-bottom: 35px;
+}
+.div-below-btn
+{
+    padding-top: 200px;
+}
+#level-title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 3rem;
+  margin: 0;
+  color: white;
+}
+
+.new-div
+{
+    display: inline-block;
+     padding-left: 475px;
+    padding-top: 269px;
+    padding-bottom: 2px;
+}
+.container {
+  display: block;
+  width: 100%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid white;
+  border-radius: 100%;
+}
+
+.game-over {
+  background-color: #c70039;
+  /* opacity: 1; */
+}
+
+.red {
+  background-color: #eb4559;
+}
+
+.green {
+  background-color: #21bf73;
+}
+
+.blue {
+  background-color: #10375c;
+}
+
+.yellow {
+  background-color: #fbe555;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+.footer
+{
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+}
